@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main (){
-//Declaración de variables
+//Declaracion de variables
 //Tipo_dato identificador = valor
 	int entero=32;
 	short int entero_corto=32;
