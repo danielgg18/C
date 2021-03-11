@@ -6,8 +6,12 @@ typedef float real; // Crea tipo de dato punto flotante de simple precisión
 typedef char jaimito; // Crea tipo de dato caracter
 // Uso de de nuevos tipos de datos
 
+//Declarar mis variables con los tipos de datos creados
+//short int x
 entero_corto x;
+//float y
 real y;
+//char letra
 jaimito letra;
 
 int main()
