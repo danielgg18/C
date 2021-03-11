@@ -4,7 +4,7 @@
 int main()
 { // Inicio
 
- system("clear"); // Limpia pantalla
+ //system("clear"); // Limpia pantalla
  
  printf("!(1 != 1) devuelve %d que implica verdadero\n",!(1 != 1));
  printf("!(1 == 1) devuelve %d que implica falso\n",!(1 == 1));
